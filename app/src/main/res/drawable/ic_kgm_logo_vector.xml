@@ -1,0 +1,48 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Outer Shield Background -->
+    <path
+        android:fillColor="#1E3A8A"
+        android:pathData="M54,12 C74,12 88,22 88,40 C88,68 54,94 54,94 C54,94 20,68 20,40 C20,22 34,12 54,12 Z" />
+        
+    <!-- Inner Gold Border -->
+    <path
+        android:strokeColor="#F59E0B"
+        android:strokeWidth="2.5"
+        android:fillColor="#00000000"
+        android:pathData="M54,16 C71,16 83,25 83,41 C83,64 54,88 54,88 C54,88 25,64 25,41 C25,25 37,16 54,16 Z" />
+        
+    <!-- Golden School Bus Body -->
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M34,34 C34,31.8 35.8,30 38,30 L70,30 C72.2,30 74,31.8 74,34 L74,58 C74,60.2 72.2,62 70,62 L38,62 C35.8,62 34,60.2 34,58 Z" />
+        
+    <!-- Bus Windshield & Windows -->
+    <path
+        android:fillColor="#1E293B"
+        android:pathData="M37,34 L52,34 L52,43 L37,43 Z M56,34 L71,34 L71,43 L56,43 Z" />
+        
+    <!-- Bus Grill & Details -->
+    <path
+        android:fillColor="#D97706"
+        android:pathData="M42,50 L66,50 L66,54 L42,54 Z" />
+        
+    <!-- Headlights -->
+    <path
+        android:fillColor="#FEF08A"
+        android:pathData="M37,51 C37,49.9 37.9,49 39,49 C40.1,49 41,49.9 41,51 C41,52.1 40.1,53 39,53 C37.9,53 37,52.1 37,51 Z M67,51 C67,49.9 67.9,49 69,49 C70.1,49 71,49.9 71,51 C71,52.1 70.1,53 69,53 C67.9,53 67,52.1 67,51 Z" />
+        
+    <!-- Wheels -->
+    <path
+        android:fillColor="#0F172A"
+        android:pathData="M38,62 C38,59.8 39.8,58 42,58 C44.2,58 46,59.8 46,62 L46,65 C46,66.1 45.1,67 44,67 L40,67 C38.9,67 38,66.1 38,65 Z M62,62 C62,59.8 63.8,58 66,58 C68.2,58 70,59.8 70,62 L70,65 C70,66.1 69.1,67 68,67 L64,67 C62.9,67 62,66.1 62,65 Z" />
+        
+    <!-- KGM Text Ribbon / Badge -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M40,71 L68,71 L66,76 L42,76 Z" />
+</vector>

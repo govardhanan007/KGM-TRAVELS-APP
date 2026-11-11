@@ -1,0 +1,6 @@
+{
+  "name": "KGM Travels",
+  "description": "Enterprise-grade School Transport Management System for KGM Travels.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
